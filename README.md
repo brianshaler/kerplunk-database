@@ -1,6 +1,6 @@
 # kerplunk-database
 
-[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. 
+[Kerplunk](https://github.com/brianshaler/kerplunk) plugin. Core database providing plugins access to private and shared Mongo collections
 
 [![Build Status](https://travis-ci.org/brianshaler/kerplunk-database.svg)](https://travis-ci.org/brianshaler/kerplunk-database)
 [![npm version](https://img.shields.io/npm/v/kerplunk-database.svg)](https://www.npmjs.com/package/kerplunk-database)
