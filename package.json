@@ -2,7 +2,7 @@
   "name": "kerplunk-database",
   "displayName": "Database",
   "description": "Core database providing plugins access to private and shared Mongo collections",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "kerplunk": {
     "services": {
       "mongo": {
